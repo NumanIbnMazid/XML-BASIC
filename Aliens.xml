@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE aliens SYSTEM "AlienType.dtd">
+
+<aliens>
+	<alien aid='A1' lang="Python">
+		<name>Numan</name>
+		<salary>30000</salary>
+	</alien>
+
+	<alien aid='A2' lang="Java">
+		<name>Mohon</name>
+		<salary>20000</salary>
+	</alien>
+</aliens>
